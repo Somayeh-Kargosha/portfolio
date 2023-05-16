@@ -11,7 +11,6 @@ Portfolio is a personal website showcasing my work, skills, and experience. It p
 - [Customization](#customization)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -77,7 +76,3 @@ Contributions are welcome! If you would like to contribute to Portfolio, please 
 6. Open a pull request in the main repository.
 
 Please ensure that your contributions adhere to the project's coding conventions and follow the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-The project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for personal or commercial projects.
