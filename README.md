@@ -80,4 +80,4 @@ Please ensure that your contributions adhere to the project's coding conventions
 
 ## License
 
-The project is licensed under the MIT License. You are free to use and modify the code for personal or commercial projects.
+The project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for personal or commercial projects.
