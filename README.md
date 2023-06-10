@@ -62,7 +62,6 @@ The Portfolio website is built using the following technologies:
 
 - HTML
 - CSS
-- JavaScript
 
 ## Contributing
 
